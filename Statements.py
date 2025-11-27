@@ -1,3 +1,4 @@
+
 # exercise
 andy_height = int(input())
 ben_height = int(input())
@@ -63,3 +64,7 @@ def xor(a, b):
         return False
     else:
         return b if not a else a
+# exercise
+input_str = input()
+output = list(input_str)
+print(output)
